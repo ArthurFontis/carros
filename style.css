@@ -64,7 +64,7 @@ h1{
 main{
     background-color: white;
     min-width: 300px;
-    max-width: 1020px;
+    max-width: 1200px;
     margin: auto;
     border-radius: 10px;
     padding: 20px;
@@ -75,16 +75,16 @@ h2{
     font-size: 1.7em;
     font-weight: bold;
     line-height: 1.8em;
-    padding-left: 70px;
+    padding-left: 150px;
 }
 section>p{
     font-size: 1.2em;
     font-family: "Lato", sans-serif;
     margin-bottom: 15px;
     text-align: justify;
-    max-width: 870px;
+    max-width: 900px;
     margin: auto;
-    margin-left: 70px;
+    margin-left: 150px;
     line-height: 26px;
 }
 section>div{
